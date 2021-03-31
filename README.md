@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @basbassibas
+- 👋 Hi, I’m Jul
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on stuff
